@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Image Search simple app
+using https://pixabay.com API key
+
 ## Available Scripts
 
 In the project directory, you can run:
